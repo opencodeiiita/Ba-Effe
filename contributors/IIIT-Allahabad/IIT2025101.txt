@@ -1,0 +1,6 @@
+Name: Jatin
+College: IIIT Allahabad
+Enrollment Number: IIT2025101
+
+About me:
+i am a first year student interested in software engineering and open source.
