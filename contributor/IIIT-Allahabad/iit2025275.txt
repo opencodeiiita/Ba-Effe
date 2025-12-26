@@ -1,0 +1,11 @@
+Name: Manisha Katariya
+
+College: IIIT Allahabad
+
+About Me:
+I am a first-time open source contributor.
+I’m interested in learning development and open source
+and excited to be part of Opencode 2025.
+
+Favorite Film:
+Interstellar
