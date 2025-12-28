@@ -1,0 +1,16 @@
+Name: Chithra R
+Enrollment Number: 24CS0160
+College: Chennai Institute of Technology
+Course: B.Tech CSE, 2nd Year
+
+About Me:
+I am passionate about coding, web development, and exploring AI technologies. I enjoy building projects that solve real-world problems and learning new frameworks and tools every day. 
+
+Favorite Film:
+Sholay – because it combines action, drama, and unforgettable characters!
+
+Hobbies:
+- Coding full-stack web apps
+- Exploring AI and data science
+- Watching classic Bollywood movies
+- Reading tech blogs and experimenting with new technologies
