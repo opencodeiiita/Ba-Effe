@@ -1,0 +1,11 @@
+Name: Deepali Kumari
+College: IIT Patna
+Enrollment Number: IITP002556
+
+About Me:
+I am a student at IIT Patna interested in open-source contribution,
+web development, and learning new technologies.
+
+Favorite Film:
+Bollywood: 3 Idiots
+Hollywood: Interstellar

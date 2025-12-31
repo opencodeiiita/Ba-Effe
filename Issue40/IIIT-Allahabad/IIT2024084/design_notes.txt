@@ -1,0 +1,17 @@
+Design Concept: "Rangrez" Technicolor Truck Art
+
+Summary:
+This design evolves the vintage "Rangara" Bollywood theme into the 2025 "Rangrez" visual identity. It combines the cinematic elements of the 70s with the high-saturation colors and bold strokes of Indian Truck Art.
+
+Key Features:
+- Typography: Custom-modified Rozha One with film-strip sprocket holes on the 'F' stems.
+- Lighting: The letter 'V' acts as a premiere night spotlight with a Marigold beam.
+- Decor: Added Cyan/White geometric patterns to mimic "Sheesha" (mirror work) embroidery.
+- Truck Art Style: Applied a thick 8px White Stroke and Royal Blue (#0047AB) hard shadow to create the signature hand-painted 3D sticker look.
+
+Colors: Magenta (#FF007F) to Yellow (#FFD700) Gradient.
+Tools: Figma.
+
+//Design Process & Iteration:
+I initially developed a "Technicolor Disco" concept focused solely on the 70s gradient style (Pink/Orange with Indigo shadow). However, to better align with the 2025 "Rangrez" theme, I evolved it.
+I'm also attaching it in v0_1.png.
