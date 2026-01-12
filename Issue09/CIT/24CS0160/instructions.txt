@@ -1,0 +1,5 @@
+1. Open the template from the "templates" folder.
+2. Duplicate the template before editing.
+3. Replace text, images, and colors as needed.
+4. Keep the design size at 1080 x 1080 pixels.
+5. Export the final design as PNG or JPG.
