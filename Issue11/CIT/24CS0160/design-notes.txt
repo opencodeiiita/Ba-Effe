@@ -1,0 +1,11 @@
+Artist Choice:
+    Ravi Raaj was chosen as the artist to highlight emerging talent while keeping the focus on 
+Effervescence as the main attraction. Featuring an artist with a strong live-performance presence 
+aligns with the fest’s aim of celebrating music, culture, and youthful energy.
+
+Design Decisions:
+    The design follows a vintage Bollywood premiere poster style, using bold typography, structured 
+text hierarchy, and classic layout techniques. The artist name is prominently displayed, similar 
+to retro film posters, while Effervescence remains central as the “main event.” Clean alignment, 
+clear event details, and subtle retro aesthetics ensure the poster feels festive, cinematic, and 
+easy to read, maintaining Effervescence’s cultural identity without overpowering it.
