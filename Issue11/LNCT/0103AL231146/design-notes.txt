@@ -1,0 +1,28 @@
+Layout
+
+- Single centered portrait
+
+- Top: Effervescence 2026
+
+- Bottom: Artist name + small info line
+
+- No extra shapes unless they add meaning
+
+Typography
+
+Use only 2 fonts
+
+- 1 display font (event / artist)
+
+- 1 simple sans-serif (details)
+
+- Normal weight → no shadows, no outlines
+
+Color
+
+- White / off-white background
+
+- One primary color (fest brand color)
+
+- One accent color only (used once or twice)
+
